@@ -1,3 +1,7 @@
 * {
 	font-family: 'TT Norms';
 }
+body {
+	min-width: 320px;
+	background-color: #FDFBFD;
+}

@@ -1,0 +1,11 @@
+.bg-light {
+	background-color: #FDFBFD !important;
+}
+
+.navbar-light .navbar-toggler {
+	color: #0D1C2E;
+	border: 0;
+}
+button:focus {
+	outline: 0;
+}
