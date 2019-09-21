@@ -9,3 +9,16 @@
 button:focus {
 	outline: 0;
 }
+.card {
+	max-width: 540px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color:#000;
+}
+
+a:hover {
+    color: #0056b3;
+    text-decoration:none !important;
+}
+

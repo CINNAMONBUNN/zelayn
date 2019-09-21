@@ -2,6 +2,35 @@
 	font-family: 'TT Norms';
 }
 body {
-	min-width: 320px;
 	background-color: #FDFBFD;
+}
+nav {
+	margin-bottom: 33px;
+}
+
+/*MAIN PAGE*/
+.main-img {
+	padding: 0 17px;
+}
+.main-search-container {
+	margin-bottom: 18px;
+	width: 220px;
+}
+.main-help-container {
+	width: 220px;
+}
+.main-personal-account {
+	color: #0D1C2E;
+}
+
+.main-search-container .form-control {
+	width: 150px;
+	border:0;
+	border-bottom: 1px solid #000; 
+	border-radius: 0;
+	background: transparent;
+}
+
+.form-control:focus {
+	box-shadow:0px 0px 0px transparent;
 }
