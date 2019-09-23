@@ -22,3 +22,7 @@ a:hover {
     text-decoration:none !important;
 }
 
+.card {
+	border: 0;
+	background: transparent;
+}
