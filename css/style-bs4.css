@@ -32,9 +32,9 @@ a:hover {
 
 .payment-btn, .btn-outline-primary {
 	color: #000;
-	width: 120px;
+	width: 155px;
 	border-radius: 40px;
-	font-size: 0.6rem;
+	font-size: 0.8rem;
 }
 .btn-outline-primary:hover {
 	cursor: pointer;
