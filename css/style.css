@@ -1,8 +1,3 @@
-:root {
-	font-size: 16px;
-}
-
-
 * {
 	font-family: 'TT Norms';
 }
@@ -62,7 +57,7 @@ nav {
 }
 
 .service-mobile-card {
-	height: 354px;
+	height: 334px;
 	background: #f5f3f3;
 	border-radius: 25px;
 	font-size: 0.9rem;
@@ -74,7 +69,7 @@ nav {
 .payment, .payment-mobile {
 	color: #fff;
 	background: #3993F3;
-	font-size: 0.8rem;
+	font-size: 0.875rem;
 }
 
 .payment-item {
