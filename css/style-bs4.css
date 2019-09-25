@@ -29,8 +29,12 @@ a:hover {
 	border: 0;
 	background: transparent;
 }
+.payment-btn {
+	font-size: 0.8rem;
+	width: 140px;
+}
 
-.payment-btn, .btn-outline-primary {
+.btn-outline-primary {
 	color: #000;
 	width: 151px;
 	border-radius: 40px;

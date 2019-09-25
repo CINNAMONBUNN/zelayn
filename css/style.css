@@ -57,10 +57,9 @@ nav {
 }
 
 .service-mobile-card {
-	height: 354px;
 	background: #f5f3f3;
 	border-radius: 25px;
-	font-size: 0.9rem;
+	font-size: 0.8rem;
 }
 .service-mobile-card-item {
 	display: flex;
