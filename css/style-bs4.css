@@ -44,3 +44,6 @@ a:hover {
 	cursor: pointer;
 	color: #fff !important;
 }
+.form-check-input {
+	margin-top: 0.2rem;
+}
