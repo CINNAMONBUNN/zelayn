@@ -154,3 +154,8 @@ nav {
 .mobile-slaider-tariffs-item-price {
 	color: #3993F3;
 }
+.smart-home-form a {
+	font-size: 0.8rem;
+	color: #000;
+	border-bottom: 1px solid #C4C4C4;
+}
