@@ -127,3 +127,30 @@ nav {
 	}
 }
 */
+
+/*TARIFFS PAGE*/
+
+.blue {
+	color: #3993F3;
+	font-size: 1.2rem;
+}
+.tariffs-item p {
+	font-size: 1.5rem;
+	border-bottom: 4px solid #3993F3;
+}
+.mobile-slaider-tariffs {
+	flex-wrap: nowrap;
+	overflow-x: auto;
+}
+
+.mobile-slaider-tariffs-item {
+	font-size: 0.875rem;
+	width: 312px;
+	height: 192px;
+	background: #F2EEEE;
+	border-radius: 7px;
+	box-shadow: 0px 5px 7px rgba(0, 0, 0, 0.2);
+}
+.mobile-slaider-tariffs-item-price {
+	color: #3993F3;
+}

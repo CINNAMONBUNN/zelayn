@@ -33,6 +33,13 @@ a:hover {
 	font-size: 0.75rem;
 	width: 140px;
 }
+.btn-primary {
+	border: 0;
+	width: 122px;
+	border-radius: 40px;
+	font-size: 0.75rem;
+	background: #80A3FF;
+}
 
 .btn-outline-primary {
 	color: #000;
@@ -48,3 +55,6 @@ a:hover {
 	margin-top: 0.2rem;
 }
 
+p {
+	line-height: 1.3;
+}
